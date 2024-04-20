@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gamemojo</string>
+    <string name="search_bar_text">Search Here</string>
+    <string name="studios_activity_textView">All Game Studios</string>
+
+    <string name="login_activity_email_textView">Email</string>
+    <string name="login_activity_email_fill_bar_text">Your Email Address</string>
+    <string name="login_activity_password_textView">Password</string>
+    <string name="login_activity_password_fill_bar_text">Your Password</string>
+    <string name="login_activity_signin_btn_text">Sign In</string>
+    <string name="login_activity_register_textView">"If you didn't have account, you can register"</string>
+    <string name="login_activity_create_acc_btn">Create an account</string>
+
+    <string name="profile_activity_user_name_textView">User Name</string>
+    <string name="profile_activity_logout_btn_textView">Log out</string>
+    <string name="profile_activity_favorite_games_textView">Favorite Games</string>
+
+    <string name="signup_activity_fullname_textView">Full Name</string>
+    <string name="signup_activity_name_fill_bar_text">Enter your name</string>
+    <string name="signup_activity_terms_and_condition_textView">Accept terms and conditions</string>
+    <string name="signup_activity_signup_btn">Sign Up</string>
+</resources>
